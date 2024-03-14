@@ -6,7 +6,7 @@
   - 📂 [osTicket: Prerequisites and Installation](https://github.com/patrickoigwilo/osticket-prereqs)
   - 📂 [osTicket: Post-Installation Configuration](https://github.com/patrickoigwilo/post-install-config)
   - 📂 [osTicket: Ticket Lifecycle Examples](https://github.com/patrickoigwilo/ticket-lifecycle)
-  - 📂 [osTicket: Accounts Provisioning]()
+  - 📂 [osTicket: Accounts Provisioning](https://github.com/patrickoigwilo/accounts-provisioning)
 - 💻 <b>Microsoft Azure</b>
   - 📂 [Configuring Active Directory within Azure Virtual Machines](https://github.com/patrickoigwilo/configure-ad)
   - 📂 [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/patrickoigwilo/azure-network-protocols)
