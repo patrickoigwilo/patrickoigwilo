@@ -1,4 +1,4 @@
-<h1>Hi, I'm Patrick, an <a href="www.linkedin.com/in/patrick-igwilo-6884b12a4">IT Professional & Aspiring Cybersecurity Analyst seeking to continuously improve my skills and deploy same in any given IT system, thus adding value.</a></h1>
+<h1>Hi, I'm Patrick, an <a href="www.linkedin.com/in/patrick-igwilo-6884b12a4">IT Professional & Aspiring Cybersecurity Analyst; seeking to continuously improve my skills and deploy same in any given IT system, thus adding value.</a></h1>
 
 <h2> 💼 Some of My Information Technology Projects:</h2>
 
