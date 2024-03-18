@@ -1,4 +1,4 @@
-<h1>Hi, I'm Patrick, an <a href="www.linkedin.com/in/patrick-igwilo-6884b12a4">IT Professional & Cybersecurity Analyst Trainee; seeking to continuously improve my skills and deploy same in any given IT system, thus adding value.</a></h1>
+><h1>Hi, I'm Patrick, an <a href="www.linkedin.com/in/patrick-igwilo-6884b12a4">IT Professional & Cybersecurity Analyst Trainee; seeking to continuously improve my skills and deploy same in any given IT system, thus adding value.</a></h1>
 
 <h2> 💼 Some of My Information Technology Projects:</h2>
 
@@ -14,7 +14,7 @@
   - 📂 [Configuring Active Directory within Azure Virtual Machines](https://github.com/patrickoigwilo/configure-ad)
   - 📂 [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/patrickoigwilo/azure-network-protocols)
 
-<h2>Connect with me:</h2>
+>><h2>Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
