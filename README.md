@@ -18,7 +18,7 @@
 ><h2> 💼 Some of My Cybersecurity Projects:</h2>
 >- 💻<b>Vulnerability Management, Detection and Response (QualysGuard VMDR)</b>
 
-<h2>Connect with me:</h2>
+<h2>You can reach me via:</h2>
 
 [<img align="left" alt="Patrick | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Patrick | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
