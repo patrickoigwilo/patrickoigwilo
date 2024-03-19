@@ -12,7 +12,11 @@
     
 - 💻 <b>Microsoft Azure</b>
   - 📂 [Configuring Active Directory within Azure Virtual Machines](https://github.com/patrickoigwilo/configure-ad)
-  - 📂 [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/patrickoigwilo/azure-network-protocols)
+  - 📂 [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/patrickoigwilo/azure-network-protocols) 
+
+
+><h2> 💼 Some of My Cybersecurity Projects:</h2>
+- 💻<b>Vulnerability Management, Detection and Response (QualysGuard VMDR)</b>
 
 >><h2>Connect with me:</h2>
 
