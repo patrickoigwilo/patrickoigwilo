@@ -24,5 +24,5 @@
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 
-[linkedin]: www.linkedin.com/in/patrick-igwilo-6884b12a4
+[linkedin]: https://www.linkedin.com/in/patrickigwilo
 [twitter]:  https://twitter.com/PatrickIgwilo
