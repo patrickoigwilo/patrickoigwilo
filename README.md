@@ -2,7 +2,7 @@
 
 <h2> 💼 My CourseCareers Final Exam Project: 👇</h2>
 
-- 💻 [Walk-through for Creating Virtual Machines Using Microsoft Azure](https://github.com/patrickoigwilo/My-CourseCareers-FinalExam-Project)
+- 💻 [Walk-through for Creating Virtual Machines Using Microsoft Azure Cloud Platform](https://github.com/patrickoigwilo/My-CourseCareers-FinalExam-Project)
 
 ><h2> 💼 Some of My Information Technology Projects:</h2>
 
