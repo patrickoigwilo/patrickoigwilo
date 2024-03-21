@@ -1,6 +1,6 @@
 <h1>Hi, I'm Patrick, an <a href="https://www.linkedin.com/in/patrickigwilo">IT/Help Desk Professional & Cybersecurity Analyst Trainee; seeking to continuously improve my skills and deploy same in any given IT environment, thus adding value.</a></h1>
 
-<h2> 💼 My CourseCareers Final Exam Project:</h2>
+<h2> 💼 My CourseCareers Final Exam Project:👇</h2>
 - 💻 <b>Walk-through for Creating Virtual Machines Using Microsoft Azure</b>
 - 📂 [osTicket: Accounts Provisioning](https://github.com/patrickoigwilo/accounts-provisioning) 
 
