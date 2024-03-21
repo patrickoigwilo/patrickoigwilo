@@ -2,7 +2,6 @@
 
 <h2> 💼 My CourseCareers Final Exam Project: 👇</h2>
 - 💻 <b>Walk-through for Creating Virtual Machines Using Microsoft Azure</b>
-- 📂 [osTicket: Accounts Provisioning](https://github.com/patrickoigwilo/accounts-provisioning) 
 
 ><h2> 💼 Some of My Information Technology Projects:</h2>
 
