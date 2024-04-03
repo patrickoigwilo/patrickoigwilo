@@ -3,6 +3,12 @@
 
 <h2> 💼 Some of My Information Technology Projects:</h2>
 
+- 💻 <b>Microsoft Azure</b>
+  - 📂 [Creating Virtual Machines Using Microsoft Azure Cloud Platform](https://github.com/patrickoigwilo/My-CourseCareers-FinalExam-Project)
+  - 📂 [Configuring Active Directory within Azure Virtual Machines](https://github.com/patrickoigwilo/configure-ad)
+  - 📂 [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/patrickoigwilo/azure-network-protocols)
+
+
 - 💻 <b>osTicket (Help Desk Ticketing System)</b>
   - 📂 [osTicket: Prerequisites and Installation](https://github.com/patrickoigwilo/osticket-prereqs)
   - 📂 [osTicket: Post-Installation Configuration](https://github.com/patrickoigwilo/post-install-config)
@@ -11,11 +17,6 @@
   - 📂 [osTicket: Configuring SLAs](https://github.com/patrickoigwilo/configuring-slas)
  
     
-- 💻 <b>Microsoft Azure</b>
-  - 📂 [Creating Virtual Machines Using Microsoft Azure Cloud Platform](https://github.com/patrickoigwilo/My-CourseCareers-FinalExam-Project)
-  - 📂 [Configuring Active Directory within Azure Virtual Machines](https://github.com/patrickoigwilo/configure-ad)
-  - 📂 [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/patrickoigwilo/azure-network-protocols) 
-
 
 ><h2> 💼 Some of My Cybersecurity Projects:</h2>
 >- 💻<b>Vulnerability Management, Detection and Response (QualysGuard VMDR)</b>
