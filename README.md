@@ -24,14 +24,11 @@
 <h2>You can reach me on:</h2>
 
 
-[🌐](https://profile.coursecareers.com/patrickolufemi.igwilo)
-
 
 [<img align="left" alt="Patrick | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Patrick | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="left" alt="Patrick | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 
 [linkedin]: https://www.linkedin.com/in/patrickigwilo
-[telegram]: https://web.telegram.org/a/
-[twitter]:  https://twitter.com/PatrickIgwilo
+
+
+[🌐](https://profile.coursecareers.com/patrickolufemi.igwilo)
