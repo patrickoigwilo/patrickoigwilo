@@ -5,8 +5,8 @@
 
 - 💻 <b>Microsoft Azure (Cloud Computing Platform)</b>
   - 📂 [Creating Virtual Machines Using Microsoft Azure Cloud Platform](https://github.com/patrickoigwilo/My-CourseCareers-FinalExam-Project)
-  - 📂 [Configuring Active Directory within Azure Virtual Machines](https://github.com/patrickoigwilo/configure-ad)
   - 📂 [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/patrickoigwilo/AzureNSGs-NetworkProtocols)
+  - 📂 [Configuring Active Directory within Azure Virtual Machines](https://github.com/patrickoigwilo/configure-ad)
 
 
 - 💻 <b>osTicket (Help Desk Ticketing System)</b>
