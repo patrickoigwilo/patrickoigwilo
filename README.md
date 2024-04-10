@@ -10,11 +10,10 @@
 
 
 - 💻 <b>osTicket (Help Desk Ticketing System)</b>
-  - 📂 [osTicket: Prerequisites and Installation](https://github.com/patrickoigwilo/osTicket-PrereqsAndInstall)
-  - 📂 [osTicket: Post-Installation Configuration](https://github.com/patrickoigwilo/post-install-config)
-  - 📂 [osTicket: Ticket Lifecycle Examples](https://github.com/patrickoigwilo/ticket-lifecycle)
-  - 📂 [osTicket: Accounts Provisioning](https://github.com/patrickoigwilo/accounts-provisioning)
-  - 📂 [osTicket: Configuring SLAs](https://github.com/patrickoigwilo/configuring-slas)
+  - 📂 [osTicket: Prerequisites, Installation and Configuration](https://github.com/patrickoigwilo/osTicket-PrereqsAndInstall)
+  - 📂 [osTicket: Ticket Properties and Lifecycle Examples](https://github.com/patrickoigwilo/Ticket-PropertiesAndLifecycle)
+  - 📂 [osTicket: Accounts Provisioning](https://github.com/patrickoigwilo/Accounts-Provisioning)
+  - 📂 [osTicket: Configuring SLAs](https://github.com/patrickoigwilo/Configuring-Slas)
  
     
 
