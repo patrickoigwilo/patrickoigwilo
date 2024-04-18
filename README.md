@@ -11,9 +11,9 @@
 
 - 💻 <b>osTicket (Help Desk Ticketing System)</b>
   - 📂 [osTicket: Prerequisites, Installation and Configuration](https://github.com/patrickoigwilo/osTicket-PrereqsAndInstall)
+  - 📂 [osTicket: Configuring Roles (Admins, Agents, Departments and Teams) and SLAs](https://github.com/patrickoigwilo/ConfiguringRolesAndSlas)
   - 📂 [osTicket: Ticket Properties and Lifecycle Examples](https://github.com/patrickoigwilo/Ticket-PropertiesAndLifecycle)
-  - 📂 [osTicket: Accounts Provisioning](https://github.com/patrickoigwilo/Accounts-Provisioning)
-  - 📂 [osTicket: Configuring SLAs](https://github.com/patrickoigwilo/Configuring-Slas)
+  
  
     
 
