@@ -6,8 +6,7 @@
 - 💻 <b>osTicket (Help Desk Ticketing System)</b>
   - 📂 [osTicket: Prerequisites, Installation and Configuration](https://github.com/patrickoigwilo/osTicket-PrereqsAndInstall)
   - 📂 [osTicket: Configuring Roles (Permissions) and SLAs](https://github.com/patrickoigwilo/ConfiguringRolesAndSlas)
-
-
+    
 - 💻 <b>Microsoft Azure (Cloud Computing Platform)</b>
   - 📂 [Creating Virtual Machines Using Microsoft Azure Cloud Platform](https://github.com/patrickoigwilo/My-CourseCareers-FinalExam-Project)
   - 📂 [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/patrickoigwilo/AzureNSGs-NetworkProtocols)
