@@ -3,15 +3,18 @@
 
 <h2> 💼 Some of My Information Technology Projects:</h2>
 
+- 💻 <b>osTicket (Help Desk Ticketing System)</b>
+  - 📂 [osTicket: Prerequisites, Installation and Configuration](https://github.com/patrickoigwilo/osTicket-PrereqsAndInstall)
+  - 📂 [osTicket: Configuring Roles (Permissions) and SLAs](https://github.com/patrickoigwilo/ConfiguringRolesAndSlas)
+
+
 - 💻 <b>Microsoft Azure (Cloud Computing Platform)</b>
   - 📂 [Creating Virtual Machines Using Microsoft Azure Cloud Platform](https://github.com/patrickoigwilo/My-CourseCareers-FinalExam-Project)
   - 📂 [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/patrickoigwilo/AzureNSGs-NetworkProtocols)
   - 📂 [Configuring On-Premises Active Directory within Azure Virtual Machines](https://github.com/patrickoigwilo/ActiveDirectory)
 
 
-- 💻 <b>osTicket (Help Desk Ticketing System)</b>
-  - 📂 [osTicket: Prerequisites, Installation and Configuration](https://github.com/patrickoigwilo/osTicket-PrereqsAndInstall)
-  - 📂 [osTicket: Configuring Roles (Permissions) and SLAs](https://github.com/patrickoigwilo/ConfiguringRolesAndSlas)
+
     
  
     
